@@ -1,17 +1,18 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "botsmp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "deadxsmp-1WZB.aternos.me",
+    "port": 52986,
     "version": "",
     "try-creative": false
   },
-  "position": {
+  "
+   position": {
     "enabled": true,
     "x": 0,
     "y": 100,
